@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_6ea32e6bda8eb18975287515ab08b3b5" kind="dir">
+    <compoundname>energy_detection</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/gill/Desktop/gnuradio/flowgraphs/gr-energy_detection/include/energy_detection/"/>
+  </compounddef>
+</doxygen>
